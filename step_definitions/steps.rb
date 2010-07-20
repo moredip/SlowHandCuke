@@ -6,3 +6,8 @@ end
 Then /^the test fails$/ do
   (2+2).should == 5
 end
+
+Then /^the test passes!$/ do
+  (2+2).should == 4
+end
+
