@@ -6,4 +6,6 @@ With the stock cucumber formatters you only find out which steps are running aft
 
 ##SlowHandCuke in action
 
+[ Check out a 10 second screencast ]( http://www.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06 )
+
 <object id="scPlayer" class="embeddedObject" width="865" height="684" type="application/x-shockwave-flash" data="http://content.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06/jingswfplayer.swf" > <param name="movie" value="http://content.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06/jingswfplayer.swf" /> <param name="quality" value="high" /> <param name="bgcolor" value="#FFFFFF" /> <param name="flashVars" value="thumb=http://content.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06/FirstFrame.jpg&containerwidth=865&containerheight=684&content=http://content.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06/00000018.swf&blurover=false" /> <param name="allowFullScreen" value="true" /> <param name="scale" value="showall" /> <param name="allowScriptAccess" value="always" /> <param name="base" value="http://content.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06/" /> </object>
