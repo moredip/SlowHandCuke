@@ -1,0 +1,8 @@
+Given /^I wait (\d+) seconds$/ do |seconds|
+  seconds = seconds.to_i
+  sleep seconds
+end
+
+Then /^the test fails$/ do
+  (2+2).should == 5
+end
