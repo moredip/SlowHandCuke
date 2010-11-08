@@ -1,6 +1,6 @@
 require 'cucumber/formatter/pretty'
-module Formatter
-  class SlowHandCuke < Cucumber::Formatter::Pretty
+module Slowhandcuke
+  class Formatter < Cucumber::Formatter::Pretty
     def before_step( step )
       @io.printf "... #{step.name}"
       @io.flush
