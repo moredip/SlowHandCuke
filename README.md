@@ -1,10 +1,18 @@
-##What is it?
+What?
+=====
 SlowHandCuke is a simple cucumber formatter whose sole purpose is to give you feedback on the *currently running* step in the console.
 
-##Why?
+Why?
+======
 With the stock cucumber formatters you only find out which steps are running after they have completed running. If you have slow running tests it can be confusing during a test run if you cannot see the currently running test.
 
-##SlowHandCuke in action
+How?
+====
+    gem install slowhandcuke
+    cucumber --format 'Slowhandcuke::Formatter'
+
+SlowHandCuke in action
+======================
 
 [ Check out a 10 second screencast ]( http://www.screencast.com/users/PeteHodgson/folders/Jing/media/9ee39009-0fd1-4850-85b8-8eed8beecd06 ). The second run (with --format pretty) shows what the stock console output looks like *without* SlowHandCuke.
 
