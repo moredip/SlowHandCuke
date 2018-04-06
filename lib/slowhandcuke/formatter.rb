@@ -2,7 +2,7 @@ require 'cucumber/formatter/pretty'
 module Slowhandcuke
   class Formatter < Cucumber::Formatter::Pretty
     def before_step( step )
-      @io.printf "... #{step.name}"
+      @io.printf "... #{step}"
       @io.flush
     end
 
